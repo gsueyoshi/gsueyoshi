@@ -21,7 +21,7 @@ AIを活用したコーディングで、開発スピードと品質の両立を
 
 <p align="center">
   <a href="https://github.com/gsueyoshi">
-    <img src="https://img.shields.io/badge/GitHub-gsueyoshi-181717?style=for-the-badge&logo=github" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-gsueyoshi-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=1F6FEB" alt="GitHub">
   </a>
 </p>
 
@@ -39,14 +39,14 @@ AIを活用したコーディングで、開発スピードと品質の両立を
 ## Tech Stack
 
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript" alt="JavaScript">
-  <img src="https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python" alt="Python">
-  <img src="https://img.shields.io/badge/SQL-111111?style=flat-square&logo=postgresql" alt="SQL">
-  <img src="https://img.shields.io/badge/React-111111?style=flat-square&logo=react" alt="React">
-  <img src="https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=node.js" alt="Node.js">
-  <img src="https://img.shields.io/badge/GAS-111111?style=flat-square&logo=google" alt="Google Apps Script">
-  <img src="https://img.shields.io/badge/AWS%20Lambda-111111?style=flat-square&logo=awslambda" alt="AWS Lambda">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=ffffff" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffffff" alt="Python">
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=ffffff" alt="SQL">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=0A0A0A" alt="React">
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=node.js&logoColor=ffffff" alt="Node.js">
+  <img src="https://img.shields.io/badge/GAS-4285F4?style=flat-square&logo=googleappsscript&logoColor=ffffff" alt="Google Apps Script">
+  <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=232F3E" alt="AWS Lambda">
 </p>
 
 ## What I Build
@@ -63,10 +63,13 @@ AIを活用したコーディングで、開発スピードと品質の両立を
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gsueyoshi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gsueyoshi&layout=compact&theme=tokyonight&hide_border=true)
+<p>
+  <img src="https://img.shields.io/github/followers/gsueyoshi?style=for-the-badge&logo=github&label=Followers&color=0D1117&labelColor=1F6FEB" alt="GitHub Followers">
+  <img src="https://img.shields.io/github/last-commit/gsueyoshi/gsueyoshi?style=for-the-badge&logo=github&label=Last%20Commit&color=0D1117&labelColor=1F6FEB" alt="Last Commit">
+  <img src="https://img.shields.io/github/commit-activity/m/gsueyoshi/gsueyoshi?style=for-the-badge&logo=github&label=Monthly%20Commits&color=0D1117&labelColor=1F6FEB" alt="Monthly Commits">
+</p>
 
 ## Link
 
 - GitHub: https://github.com/gsueyoshi
+
