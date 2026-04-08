@@ -13,38 +13,61 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 自己紹介カード
-
-## 基本情報
-- 名前: 末吉 元気
-- 英語表記: Genki Sueyoshi
-
-## ひとこと
+<h1 align="center">Genki Sueyoshi</h1>
+<p align="center"><strong>末吉 元気</strong></p>
+<p align="center">
 AIを活用したコーディングで、開発スピードと品質の両立を目指しています。
+</p>
 
-## 得意なこと
-- 要件整理と構造化
-- 実装しやすい仕様づくり
-- 継続的な改善（小さく作って、早く学ぶ）
+<p align="center">
+  <a href="https://github.com/gsueyoshi">
+    <img src="https://img.shields.io/badge/GitHub-gsueyoshi-181717?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+</p>
 
-## 主だった使用言語・技術
-- JavaScript / TypeScript
-- Python
-- SQL
-- React
-- Node.js
-- GAS (Google Apps Script)
-- AWS Lambda
+---
 
-## 興味・関心
-- Webアプリ開発
-- AI活用による業務効率化
-- チームでのプロダクト改善
+## Profile
 
-## GitHubでやりたいこと
-- 学びの記録を継続的に公開する
-- 実践的なサンプルを積み上げる
-- コラボレーションしやすいコードを書く
+| Item | Details |
+| --- | --- |
+| Name | 末吉 元気 (Genki Sueyoshi) |
+| Strengths | 要件整理 / 実装しやすい仕様づくり / 継続的改善 |
+| Focus | AI活用開発・業務効率化・実践的なWeb開発 |
+| Working Style | 小さく作って早く学び、品質と速度を両立 |
 
-## Links
+## Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python" alt="Python">
+  <img src="https://img.shields.io/badge/SQL-111111?style=flat-square&logo=postgresql" alt="SQL">
+  <img src="https://img.shields.io/badge/React-111111?style=flat-square&logo=react" alt="React">
+  <img src="https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=node.js" alt="Node.js">
+  <img src="https://img.shields.io/badge/GAS-111111?style=flat-square&logo=google" alt="Google Apps Script">
+  <img src="https://img.shields.io/badge/AWS%20Lambda-111111?style=flat-square&logo=awslambda" alt="AWS Lambda">
+</p>
+
+## What I Build
+
+- Webアプリケーション開発
+- AI活用による業務改善ツール
+- 自動化スクリプトとサーバーレス実装
+
+## On GitHub
+
+- 学びの記録を継続的に公開
+- 実践的なサンプルを積み上げ
+- コラボしやすいコードとドキュメントを意識
+
+## GitHub Stats
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gsueyoshi&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsueyoshi&layout=compact&theme=transparent&hide_border=true" alt="Top Languages">
+</p>
+
+## Link
+
 - GitHub: https://github.com/gsueyoshi
