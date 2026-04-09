@@ -68,7 +68,7 @@ AIも開発に取り入れながら、アイデアを素早く形にして改善
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=0A0A0A" alt="React">
   <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=node.js&logoColor=ffffff" alt="Node.js">
   <img src="https://img.shields.io/badge/GAS-4285F4?style=flat-square&logo=googleappsscript&logoColor=ffffff" alt="Google Apps Script">
-  <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=232F3E" alt="AWS Lambda">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffffff" alt="Python">
   <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=ffffff" alt="SQL">
 </p>
