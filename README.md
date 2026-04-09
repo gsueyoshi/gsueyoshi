@@ -66,10 +66,10 @@ AIも開発に取り入れながら、アイデアを素早く形にして改善
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" alt="JavaScript">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=ffffff" alt="TypeScript">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=0A0A0A" alt="React">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffffff" alt="Python">
-  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=ffffff" alt="SQL">
   <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=node.js&logoColor=ffffff" alt="Node.js">
   <img src="https://img.shields.io/badge/GAS-4285F4?style=flat-square&logo=googleappsscript&logoColor=ffffff" alt="Google Apps Script">
   <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=232F3E" alt="AWS Lambda">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffffff" alt="Python">
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=ffffff" alt="SQL">
 </p>
 
