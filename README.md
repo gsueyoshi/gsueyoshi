@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 <h1 align="center">Genki Sueyoshi</h1>
 <p align="center"><strong>末吉 元気</strong></p>
 <p align="center">
-AIを活用したコーディングで、開発スピードと品質の両立を目指しています。
+Webアプリや業務自動化ツール、AIを活用した開発に取り組んでいます。<br>
+小さく作って試しながら、使いやすくて続けて改善しやすい形にしていくのが好きです。
 </p>
 
 <p align="center">
@@ -27,16 +28,16 @@ AIを活用したコーディングで、開発スピードと品質の両立を
 
 ---
 
-## Profile
+## プロフィール
 
-| Item | Details |
+| 項目 | 内容 |
 | --- | --- |
-| Name | 末吉 元気 (Genki Sueyoshi) |
-| Strengths | 要件整理 / 実装しやすい仕様づくり / 継続的改善 |
-| Focus | AI活用開発・業務効率化・実践的なWeb開発 |
-| Working Style | 小さく作って早く学び、品質と速度を両立 |
+| 名前 | 末吉 元気（Genki Sueyoshi） |
+| 取り組み領域 | Web開発 / 業務自動化 / AI活用開発 |
+| 得意なこと | 要件整理 / 形にしやすい仕様づくり / 継続的な改善 |
+| 開発スタイル | まず作る、試す、直すを繰り返しながら、少しずつ育てていくタイプです |
 
-## Tech Stack
+## 技術スタック
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" alt="JavaScript">
@@ -49,27 +50,31 @@ AIを活用したコーディングで、開発スピードと品質の両立を
   <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=232F3E" alt="AWS Lambda">
 </p>
 
-## What I Build
+## こんなものを作っています
 
-- Webアプリケーション開発
-- AI活用による業務改善ツール
-- 自動化スクリプトとサーバーレス実装
+- React / TypeScript を使ったWebアプリ
+- Python や Google Apps Script を使った自動化ツール
+- AWS Lambda を使ったサーバーレスな処理
+- AIを活用した試作・改善・開発フローの効率化
+- 「こういうの欲しかった」を形にする小さなツールやサンプル
 
-## On GitHub
+## 開発で大事にしていること
 
-- 学びの記録を継続的に公開
-- 実践的なサンプルを積み上げ
-- コラボしやすいコードとドキュメントを意識
+- まずは動くものを作る
+- 小さく試して、早めに改善する
+- 複雑にしすぎず、あとから手を入れやすくする
+- コードだけでなく、READMEや説明もできるだけ分かりやすくする
 
-## GitHub Stats
+## GitHubについて
 
-<p>
-  <img src="https://img.shields.io/github/followers/gsueyoshi?style=for-the-badge&logo=github&label=Followers&color=0D1117&labelColor=1F6FEB" alt="GitHub Followers">
-  <img src="https://img.shields.io/github/last-commit/gsueyoshi/gsueyoshi?style=for-the-badge&logo=github&label=Last%20Commit&color=0D1117&labelColor=1F6FEB" alt="Last Commit">
-  <img src="https://img.shields.io/github/commit-activity/m/gsueyoshi/gsueyoshi?style=for-the-badge&logo=github&label=Monthly%20Commits&color=0D1117&labelColor=1F6FEB" alt="Monthly Commits">
-</p>
+- 学習記録だけでなく、実際に動かせるものや試作も置いています
+- 作って終わりではなく、少しずつ改善していく過程も大切にしています
+- 読みやすくて触りやすいリポジトリを目指しています
 
-## Link
+## 公開しているもの
 
-- GitHub: https://github.com/gsueyoshi
+- Webアプリケーション
+- 自動化スクリプト
+- AI活用の試作コード
+- 実装サンプルや学習ログ
 
